@@ -1,20 +1,19 @@
 # README
 
-## Table of Contents
+# Table of Contents
     
-    * [Title](#Title)
-    * [Links](#Links)
-    * [Description](#Description)
-    * [Screenshots](#Screenshots)
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contributors](#Contributors)
-    * [Testing](#Testing)
-    * [Questions](#Questions)
+[Title](#Title)
+[Links](#Links)
+[Description](#Description)
+[Screenshots](#Screenshots)
+[Installation](#Installation)
+[Usage](#Usage)
+[License](#License)
+[Contributors](#Contributors)
+[Testing](#Testing)
+[Questions](#Questions)
 
-<a name="Title"></a>
-## Workout Tracker 
+## Workout Tracker <a name="Title"></a>
 
 ## Links
 
