@@ -1,3 +1,3 @@
 module.exports = {
-    workout: requestAnimationFrame("./workout")
+    Workout: require("./workout")
 }
