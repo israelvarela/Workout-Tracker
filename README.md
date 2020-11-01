@@ -4,20 +4,20 @@
     
 [Title](#Title)  
 [Links](#Links)  
-[Description](#Description)
-[Screenshots](#Screenshots)
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributors](#Contributors)
-[Testing](#Testing)
-[Questions](#Questions)
+[Description](#Description)  
+[Screenshots](#Screenshots)  
+[Installation](#Installation)  
+[Usage](#Usage)  
+[License](#License)  
+[Contributors](#Contributors)  
+[Testing](#Testing)  
+[Questions](#Questions)  
 
-## Workout Tracker <a name="Title"></a>
+## Workout Tracker
 
 ## Links
 
-Deployed Heroku App: https://git.heroku.com/iv-workout-tracker.git
+Deployed Heroku App: https://git.heroku.com/iv-workout-tracker.git  
 Github Repo: https://github.com/israelvarela/Workout-Tracker
 
 ## Description 
@@ -50,6 +50,6 @@ A fitness tracking app to track your workout routines
 
   Contact me on: 
 
-  GitHub UserName: israelvarela
-  GitHub Profile: https://github.com/israelvarela
-  Email: israel.varela78@yahoo.com
+  GitHub UserName: israelvarela  
+  GitHub Profile: https://github.com/israelvarela  
+  Email: israel.varela78@yahoo.com  
