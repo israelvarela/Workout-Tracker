@@ -2,16 +2,16 @@
 
 ## Table of Contents
     
-    * [Title](##Title)
-    * [Links](##Links)
-    * [Description](##Description)
-    * [Screenshots] (##Screenshots)
-    * [Installation](##Installation)
-    * [Usage](##Usage)
-    * [License](##License)
-    * [Contributors](##Contributors)
-    * [Testing](##Testing)
-    * [Questions](##Questions)
+    * [Title](#Title)
+    * [Links](#Links)
+    * [Description](#Description)
+    * [Screenshots](#Screenshots)
+    * [Installation](#Installation)
+    * [Usage](#Usage)
+    * [License](#License)
+    * [Contributors](#Contributors)
+    * [Testing](#Testing)
+    * [Questions](#Questions)
 
 ## Workout Tracker
 
