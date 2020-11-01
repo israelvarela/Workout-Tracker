@@ -2,8 +2,8 @@
 
 # Table of Contents
     
-[Title](#Title)
-[Links](#Links)
+\ [Title](#Title)
+\ [Links](#Links)
 [Description](#Description)
 [Screenshots](#Screenshots)
 [Installation](#Installation)
